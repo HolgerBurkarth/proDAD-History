@@ -30,15 +30,15 @@ As his programming experience grew, so did the complexity of his programs—and 
 
 Through publications like the *"Commodore C64 Magazin,"* he absorbed technical details and programming techniques. Initially, he worked in **BASIC**, the standard language of the C64. However, an article highlighting the immense speed of machine language compared to BASIC sparked his ambition. He began compiling binary codes from tables manually and calculating jump distances for conditional commands by hand. Since commercial Assembler software was expensive, he simply wrote his own Assembler in BASIC. Soon realizing that BASIC was too slow for larger projects, he used his first Assembler to develop a second one—this time written entirely in machine code—which operated significantly faster.
 
-There were few C64 owners in his circle; Alex and Andreas were the only ones he knew. They met to play games and exchange knowledge. while Holger was deeply engrossed in programming, his friends were more interested in gaming and graphics. Together, they dreamed of developing their own game: Holger would handle the coding, and the others would do the design. Using his new Assembler, he developed a scrollable playfield where objects could be positioned and moved—a promising foundation. However, his collaborators' enthusiasm quickly waned, and the project fizzled out.
+There were few C64 owners in his circle; Alex and Andreas were the only ones he knew. They met to play games and exchange knowledge. while Holger was deeply engrossed in programming, his friends were more interested in gaming and graphics. Together, they dreamed of developing their own game: Holger would handle the coding, and the others would do the design. Using his new Assembler, he developed a scrollable play-field where objects could be positioned and moved—a promising foundation. However, his collaborators' enthusiasm quickly waned, and the project fizzled out.
 
 Another project involved partially recreating his pocket calculator on the C64. This calculator had played a special role in his youth. As a twelve-year-old, bored and flipping through the *"Quelle"* mail-order catalog, he discovered a solar-powered model that required no batteries. His parents couldn't afford it immediately but promised it for Christmas. With this device, he encountered buttons and functions that were completely new to him—specifically trigonometric functions. The manual not only explained how to use them but also dedicated a section to the mathematical theory behind them, complete with examples. Reading this awakened a lasting interest in mathematics—topics that had not yet been covered in school.
 
-Beyond software, hardware increasingly appealed to him. After reading a magazine article about a **light pen**—a device that could detect positions on the screen, as the mouse was not yet common—he was captivated by the idea of drawing and writing directly on the monitor. Following the printed schematic, he built the device himself, placing a photodiode into the tip of an empty ballpoint pen casing. The combination of hardware and software opened up a new world of experimentation.
+Beyond software, hardware increasingly appealed to him. After reading a magazine article about a **light pen**—a device that could detect positions on the screen, as the mouse was not yet common—he was captivated by the idea of drawing and writing directly on the monitor. Following the printed schematic, he built the device himself, placing a photo-diode into the tip of an empty ballpoint pen casing. The combination of hardware and software opened up a new world of experimentation.
 
 However, not all hardware experiments were successful. After seeing a plotter on a TV show that could draw on paper, Holger attempted to build one. A wiring error during the construction resulted in severe damage to his C64. The repair cost almost as much as a new unit. Following this incident, he decided to concentrate more heavily on software.
 
-He developed analysis and monitor tools to examine and optimize other programs. This work led to significant optimizations of the C64's internal software. Most notably, he dramatically accelerated the data transfer rate between the C64 and the floppy drive. Another challenge he tackled was the rapid rendering of geometric shapes—something taken for granted today but requiring great skill at the time. The desire to move wireframe models in three-dimensional space in real-time occupied him for a long period, and he also gained early experience by writing his own sound editor.
+He developed analysis and monitor tools to examine and optimize other programs. This work led to significant optimizations of the C64's internal software. Most notably, he dramatically accelerated the data transfer rate between the C64 and the floppy drive. Another challenge he tackled was the rapid rendering of geometric shapes—something taken for granted today but requiring great skill at the time. The desire to move wire-frame models in three-dimensional space in real-time occupied him for a long period, and he also gained early experience by writing his own sound editor.
 
 What began with a blue screen in a department store evolved into an intensive mastery of both hardware and software for Holger Burkarth, laying the technical foundation for all his future developments.
 
@@ -73,42 +73,115 @@ In late 1990, the founders traveled to the **Amiga trade fair in Cologne**, hopi
 It took nearly another year to finalize the software. At the **1991 Amiga trade fair**, proDAD officially presented Adorage at their distributor's booth. The distributor had produced crates of product boxes in anticipation, yet the entire stock sold out in less than two days. For the remainder of the event, the company could only accept pre-orders. Massive crowds gathered around Holger Burkarth's station, where he tirelessly demonstrated Adorage and answered questions. Meanwhile, his co-founder Andreas Huber was busy forging crucial new contacts, laying the strategic foundation that would allow proDAD to separate from the distributor and operate independently by the following year.
 
 
-## Milestones & Product Timeline
-### Amiga & Casablanca Era (1990–1998)
-- 1991: Adorage for Amiga
-- 1992: ClariSSA v1, Adorage v2
-- 1993: ClariSSA v2+v3, Adorage AGA, Konrad, Transformer
-- 1994: Monument Titler
-- 1995: Animage, PNet
-- 1996: Monument Designer, CAVIN,
-- 1997: pOS, Cocktail
-- 1998: Monument Designer for Casablanca
-### Windows PC & Cross-Platform Era (1999–Present)
-- 1999: Adorage Vol.1 for Windows PC
-- 2000: Adorage Vol.2, Adorage Vol.3
-- 2001: Adorage Vol.4, Adorage Vol.5, LARA
-- 2002: Heroglyph Titler v1, Adorage Vol.6
-- 2003: CMS, Adorage Vol.7
-- 2004:	Heroglyph Titler v2, Adorage Vol.8
-- 2005: Heroglyph Titler v2.5, Mediabooster, Adorage Vol.9
-- 2006: Vitascene v1
-- 2007: Heroglyph Titler v2.6, Mercalli Plugins v1
-- 2008: Adorage Vol.10
-- 2009: Adorage Vol.11
-- 2010: Adorage Vol.12, Heroglyph Titler v4
-- 2011: Adorage Vol.13, Mercalli Plugins v2, Corel-Route+Script
-- 2012 Mercalli SAL v2
-- 2013: Vitascene v2, Defishr, ProDrenalin v1
-- 2014: Mercalli Plugins+SAL v3, ReSpeedr v1
-- 2015: CMOS-Fixr v1 Patent number 10136065  
-- 2016: Phantom v1, ProDrenalin v2
-- 2017: Vitascene v3, Mercalli Plugins+SAL v4, Mercalli Mac OSX Plugins
-- 2018: Erasr v1, Phantom+ProDrenalin+Mercalli Bundle for Police departments
-- 2019: Mercalli NUC for medical applications
-- 2020: Vitascene v4, ProDrenalin v3
-- 2021: Mercalli Plugins+SAL v5, Mercalli PicEnhancer, Mercalli RT, Disguise v1.5, Hide v1.5
-- 2022: Ango-Exchange
-- 2024: Mercalli Plugins+SAL v6, Disguise v2, ReSpeedr v2, Vitascene v5
-- 2025: Mercalli CLI, Mercalli Linux SDK, Hide v2
 
+## Product Timeline
+
+### Amiga & Casablanca Era (1991–1998)
+
+| Year | Product                   | Notice                                |
+|------|---------------------------|---------------------------------------|
+| 1991 | Adorage                   |                                       |
+| 1992 | ClariSSA v1               |                                       |
+|      | Adorage v2                |                                       |
+| 1993 | ClariSSA v2               |                                       |
+|      | ClariSSA v3               |                                       |
+|      | Transformer               | low-AI color quantizer                |
+|      | Adorage AGA               |                                       |
+|      | Konrad                    | Converter for Adorage                 |
+| 1994 | Monument Titler v1        |                                       |
+| 1995 | Animage                   | Real-time compositing editor          |
+|      | Monument Titler v2        |                                       |
+|      | PNet                      | Network via serial interface          |
+| 1996 | Monument Designer v1      | For Amiga and Draco (MacroSystem)     |
+|      | CAVIN                     | Video editing with camcorder control  |
+| 1997 | pOS                       | Reprogramming of AmigaOS              |
+|      | Monument Designer v2      |                                       |
+|      | Cocktail                  | Videophone via modem telephone lines  |
+| 1998 | Monument Designer         | For Casablanca (MacroSystem)          |
+
+### Windows PC & Cross-Platform Era (1999–Present)
+
+| Year | Product                   | Notice                                |
+|------|---------------------------|---------------------------------------|
+| 1999 | Adorage Vol.1             |                                       |
+| 2000 | Adorage Vol.2             |                                       |
+|      | Adorage Vol.3             |                                       |
+| 2001 | Adorage Vol.4             |                                       |
+|      | Adorage Vol.5             |                                       |
+|      | LARA                      | Easy website localization             |
+| 2002 | Heroglyph Titler v1       |                                       |
+|      | Adorage Vol.6             |                                       |
+| 2003 | CMS                       | Offline content management system for administrations |
+|      | Adorage Vol.7             |                                       |
+| 2004 | Heroglyph Titler v2       |                                       |
+|      | Adorage Vol.8             |                                       |
+| 2005 | Heroglyph Titler v2.5     |                                       |
+|      | Mediabooster              | Offline content management system for video websites |
+|      | Adorage Vol.9             |                                       |
+| 2006 | Vitascene v1 SAL          |                                       |
+|      | Vitascene v1 Plugins      |                                       |
+| 2007 | Heroglyph Titler v2.6     |                                       |
+|      | Mercalli Plugins v1       |                                       |
+|      | Vitascene v1 Pinnacle     | Bundle with Pinnacle Studio           |
+|      | Vitascene v1 MAGIX DELUXE |            |
+| 2008 | Adorage Vol.10            |                                       |
+| 2009 | Adorage Vol.11            |                                       |
+|      | Mercalli v1.5 SDK         |                                       |
+|      | Mercalli v1.5 Plugins     | FinalCut,                             |
+| 2010 | Adorage Vol.12            |                                       |
+|      | Heroglyph Titler v4       |                                       |
+|      | Mercalli v1 Pinnacle      | Bundle with Pinnacle Studio           |
+|      | Mercalli v1 Easy          |																			|
+|      | Mercalli v1 DS Plugin     | Direct-Show Integration				|
+| 2011 | Adorage Vol.13            |                                       |
+|      | Mercalli v2 Plugins       | With CMOS-Correction                  |
+|      | Mercalli v2 Easy           |																			|
+|      | Heroglyph Route           | Bundle for Corel VideoStudio          |
+|      | Heroglyph Script          | Bundle for Corel VideoStudio          |
+|      | Vitascene v1 EDIUS        |            |
+|      | Vitascene v1 Avid Studio  |            |
+| 2012 | Mercalli v2 SAL           |                                       |
+| 2013 | Vitascene v2              |                                       |
+|      | DeFishr v1 SAL            |                                       |
+|      | ProDrenalin v1            |                                       |
+| 2014 | Mercalli v3 SAL           |                                       |
+|      | Mercalli v3 Plugins       |                                       |
+|      | Phantom v1                |                                       |
+|      | ReSpeedr v1               |                                       |
+|      | CMOS-Fixr v1              | Patent number 10136065                |
+|      | DeFishr v1 MAGIX Deluxe   | Bundle with MAGIX Deluxe              |
+|      | Vitascene v2 Sony Vegas   |                                       |
+| 2015 | Phantom v1.4              | Object tracker                        |
+| 2016 | ProDrenalin v2            |                                       |
+|      | Mercalli v4 SAL           |                                       |
+|      | Mercalli v4 Plugins       |                                       |
+|      | Phantom v1.5              |                                       |
+| 2017 | Vitascene v3              |                                       |
+|      | Mercalli Mac OSX Plugins  |                                       |
+|      | Phantom v1.6 S3D          | Support for spherical binocular videos |
+| 2018 | Erasr v1                  |                                       |
+|      | Phantom                   | Bundle for Police departments         |
+|      | ProDrenalin               | Bundle for Police departments         |
+|      | Mercalli                  | Bundle for Police departments         |
+|      | Phantom v1.7 Re-Mosaic    | Automatically detect mosaics and create timelines |
+| 2019 | Mercalli NUC              | For medical applications              |
+|      | Phantom v1.8 Faces        | Automatically recognize faces and objects and create timelines |
+| 2020 | Vitascene v4              |                                       |
+|      | ProDrenalin v3            | Super-Lupe and Court-admissible protocol |
+|      | Mercalli v5 SAL					 |                                       |
+|      | Mercalli v5 Plugins			 |                                       |
+|      | Mercalli PicEnhancer      |                                       |
+|      | Mercalli RT               |                                       |
+| 2021 | Disguise v1.5             | The Phantom had to be renamed.        |
+|      | Hide v1.5                 | The Erasr had to be renamed.          |
+| 2022 | Ango-Exchange             |                                       |
+|      | Mercalli v6 SAL					 |                                       |
+|      | Mercalli v6 Plugins       |                                       |
+| 2024 | Disguise v2               |                                       |
+|      | ReSpeedr v2               |                                       |
+|      | Vitascene v5              |                                       |
+| 2025 | Mercalli CLI              |                                       |
+|      | Mercalli Linux SDK        |                                       |
+|      | Hide v2                   |                                       |
+|      | Vitascene v6 OFX          |                                       |
 
