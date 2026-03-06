@@ -73,6 +73,26 @@ In late 1990, the founders traveled to the **Amiga trade fair in Cologne**, hopi
 It took nearly another year to finalize the software. At the **1991 Amiga trade fair**, proDAD officially presented Adorage at their distributor's booth. The distributor had produced crates of product boxes in anticipation, yet the entire stock sold out in less than two days. For the remainder of the event, the company could only accept pre-orders. Massive crowds gathered around Holger Burkarth's station, where he tirelessly demonstrated Adorage and answered questions. Meanwhile, his co-founder Andreas Huber was busy forging crucial new contacts, laying the strategic foundation that would allow proDAD to separate from the distributor and operate independently by the following year.
 
 
+### 1992 – A Year of Risk and Technological Revolution
+
+Adorage's overwhelming success marked a pivotal turning point. In 1992, the founders made the bold decision to devote themselves full-time to proDAD. It was a risky move. In their rural hometown, computers were still rare in the early '90s, and most people did not understand the economic viability of software. While their environment - and even their own parents - urged caution in the face of such uncertainty, their pioneering spirit prevailed. With the pragmatic mindset of "We'll try it for two years and see if it works," they plunged into self-employment.
+
+Their vision was clear: they would develop Adorage's revolutionary animation technology into a standalone program. They aimed to create a tool that could convert and play back any animation in a new, fluid format. Thus, **SSA** (Super Smooth Animation) was born. **Andreas** christened the new product **ClariSSA**, a name that conveyed the technological superiority of the SSA technique.
+
+However, developing the finished product was a grueling battle against technical limitations and personal exhaustion. During development, **Holger** realized that the programming languages used thus far - **GFX-BASIC** and **Inline-Assembler** - were insufficient for the planned expansions. In a radical move, he decided to switch to **ANSI C** midway through the process. Amidst the immense pressure of the approaching Photokina trade fair in September, Holger taught himself the new language and immediately applied it to the highly complex product. During this time, the distinction between day and night became blurred. Holger worked 18 hours a day in near-total social isolation to achieve the seemingly impossible.
+
+In addition to the physical and mental strain, the young company was under severe financial pressure. Producing high-quality product boxes and manuals required capital, but an unexpected tax bill and the high advance payments demanded by the tax office had nearly depleted the company's funds. As the deadline approached, every dollar had to be counted twice.
+
+When **Photokina** finally opened its doors in Cologne, proDAD's survival depended on the success of ClariSSA. Yet, on the first day of the fair, tension gave way to **triumph**. The proDAD booth was literally overrun by crowds. Visitors could not believe their eyes when they saw animations on the monitors that were as smooth and high-quality as those in expensive cinema productions. A digitized scene from **Terminator 2** caused a particular sensation, proving that such quality was now possible on affordable home computers.
+
+The dominance of the new technology became undeniable when even competitors could no longer hide their admiration. A MainConcept developer presenting an animation tool requested to play his demo in SSA format. After seeing the direct comparison, he was so impressed that he summoned his entire team to witness the technological marvel. There was a consensus that **proDAD** had created something far beyond anything previously imaginable.
+
+ClariSSA sold out quickly, and the team had to start taking pre-orders at their booth. Back home, the next phase of hard work began. The founders transformed from visionaries into logistics workers. They performed painstaking manual labor such as copying, labeling, and packing hundreds of diskettes into book-sized boxes with manuals. This was done to process the flood of orders. **ClariSSA** was not only proDAD's second major success, but it also laid the groundwork for a company that continually pushes the boundaries of what is possible.
+
+
+
+
+*To be continued...*
 
 ## Product Timeline
 
@@ -87,14 +107,14 @@ It took nearly another year to finalize the software. At the **1991 Amiga trade 
 |      | ClariSSA v3               |                                       |
 |      | Transformer               | low-AI color quantizer                |
 |      | Adorage AGA               |                                       |
-|      | Konrad                    | Converter for Adorage                 |
+|      | Konrad                    | Image-Converter for Adorage           |
 | 1994 | Monument Titler v1        |                                       |
-| 1995 | Animage                   | Real-time compositing editor          |
+| 1995 | Animage                   | Real-time video compositing editor    |
 |      | Monument Titler v2        |                                       |
-|      | PNet                      | Network via serial interface          |
+|      | PNet                      | Network via serial cable              |
 | 1996 | Monument Designer v1      | For Amiga and Draco (MacroSystem)     |
 |      | CAVIN                     | Video editing with camcorder control  |
-| 1997 | pOS                       | Reprogramming of AmigaOS              |
+| 1997 | pOS                       | Proprietary operating system for the Amiga |
 |      | Monument Designer v2      |                                       |
 |      | Cocktail                  | Videophone via modem telephone lines  |
 | 1998 | Monument Designer         | For Casablanca (MacroSystem)          |
@@ -108,15 +128,15 @@ It took nearly another year to finalize the software. At the **1991 Amiga trade 
 |      | Adorage Vol.3             |                                       |
 | 2001 | Adorage Vol.4             |                                       |
 |      | Adorage Vol.5             |                                       |
-|      | LARA                      | Easy website localization             |
+|      | LARA                      | Easy website localization tool        |
 | 2002 | Heroglyph Titler v1       |                                       |
 |      | Adorage Vol.6             |                                       |
-| 2003 | CMS                       | Offline content management system for administrations |
+| 2003 | CMS                       | Content management system for government agencies |
 |      | Adorage Vol.7             |                                       |
 | 2004 | Heroglyph Titler v2       |                                       |
 |      | Adorage Vol.8             |                                       |
 | 2005 | Heroglyph Titler v2.5     |                                       |
-|      | Mediabooster              | Offline content management system for video websites |
+|      | Mediabooster              | Content management system for video websites |
 |      | Adorage Vol.9             |                                       |
 | 2006 | Vitascene v1 SAL          |                                       |
 |      | Vitascene v1 Plugins      |                                       |
@@ -134,8 +154,8 @@ It took nearly another year to finalize the software. At the **1991 Amiga trade 
 |      | Mercalli v1 Easy          |																			|
 |      | Mercalli v1 DS Plugin     | Direct-Show Integration				|
 | 2011 | Adorage Vol.13            |                                       |
-|      | Mercalli v2 Plugins       | With CMOS-Correction                  |
-|      | Mercalli v2 Easy           |																			|
+|      | Mercalli v2 Plugins       | New CMOS distortion correction        |
+|      | Mercalli v2 Easy          |																			|
 |      | Heroglyph Route           | Bundle for Corel VideoStudio          |
 |      | Heroglyph Script          | Bundle for Corel VideoStudio          |
 |      | Vitascene v1 EDIUS        |            |
@@ -148,10 +168,10 @@ It took nearly another year to finalize the software. At the **1991 Amiga trade 
 |      | Mercalli v3 Plugins       |                                       |
 |      | Phantom v1                |                                       |
 |      | ReSpeedr v1               |                                       |
-|      | CMOS-Fixr v1              | Patent number 10136065                |
+|      | CMOS-Fixr v1              | Patent No. 10136065                   |
 |      | DeFishr v1 MAGIX Deluxe   | Bundle with MAGIX Deluxe              |
 |      | Vitascene v2 Sony Vegas   |                                       |
-| 2015 | Phantom v1.4              | Object tracker                        |
+| 2015 | Phantom v1.4              | Fast and robust object tracker        |
 | 2016 | ProDrenalin v2            |                                       |
 |      | Mercalli v4 SAL           |                                       |
 |      | Mercalli v4 Plugins       |                                       |
