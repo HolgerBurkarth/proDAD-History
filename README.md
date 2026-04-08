@@ -204,4 +204,5 @@ ClariSSA sold out quickly, and the team had to start taking pre-orders at their 
 |      | Mercalli Linux SDK        |                                       |
 |      | Hide v2                   |                                       |
 |      | Vitascene v6 OFX          |                                       |
+| 2026 | Spherixr v6               | Plugin for spherical videos           |
 
