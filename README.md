@@ -13,6 +13,10 @@ The proDAD journey began in **1990** with deep roots in the **Commodore Amiga** 
 After the era of dedicated hardware, proDAD shifted its focus to the **Windows PC** market and set the standard for video stabilization and effects plug-ins. Demonstrating remarkable adaptability and longevity, the software suite was expanded and ported to **Mac OS X** and **Linux** over time, ensuring that creators across all major operating systems have access to proDAD’s powerful tools.
 
 
+### Links
+
+- [Company Website](https://www.prodad.com/)
+- [LinkedIn](https://www.linkedin.com/in/holger-burkarth)
 
 ### Origins and the Spark (Pre-1990)
 
