@@ -20,7 +20,7 @@ After the era of dedicated hardware, proDAD shifted its focus to the **Windows P
 
 ### Origins and the Spark (Pre-1990)
 
-The story of proDAD began years before its official incorporation, fueled by a fascination with emerging technology. 
+The story of proDAD began years before its official incorporation, fueled by a fascination with emerging technology.
 
 In the winter of **1983**, while completing his apprenticeship as a mechanic, Holger Burkarth attended vocational school once a week. During lunch breaks, he and his classmates often visited the *Karstadt* department store. On one such visit, he stopped abruptly in front of a small display featuring a television set. The screen showed nothing but a blue background with cryptic text and numbers. Fascinated, they watched until another visitor began typing on the keyboard, causing the screen to flash in a kaleidoscope of colors. This was a key moment for Holger: seeing a computer in action—specifically, a **Commodore 64**—for the first time.
 
@@ -208,5 +208,6 @@ ClariSSA sold out quickly, and the team had to start taking pre-orders at their 
 |      | Mercalli Linux SDK        |                                       |
 |      | Hide v2                   |                                       |
 |      | Vitascene v6 OFX          |                                       |
-| 2026 | Spherixr v6               | Plugin for spherical videos           |
+| 2026 | Spherixr v1               | Plugin for spherical videos           |
+|      | Denoisr v1                | Plugin for (RT) denoising videos      |
 
