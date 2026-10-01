@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="MonumentTitler.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Monument Titler: Der All-in-One Titler der Amiga-Ära
 
 Mit dem *Monument Titler* setzte proDAD im Jahr 1994 neue Maßstäbe in der digitalen Titelgestaltung und Video-Typografie auf dem Commodore Amiga. Die Software vereinte alle Werkzeuge für ein professionelles Titling – vom Grafik-Editor über die Animation bis hin zur Echtzeit-Wiedergabe – auf einer einheitlichen, durchdachten Benutzeroberfläche.

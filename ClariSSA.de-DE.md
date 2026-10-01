@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="ClariSSA.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD ClariSSA: Die Pionier-Software für flüssige Videoanimationen
 
 *ClariSSA* zählt zu den frühen technischen Meisterleistungen aus dem Hause proDAD. In der Blütezeit der Amiga-Videobearbeitung Anfang der 1990er Jahre etablierte sich die Software als unverzichtbares Werkzeug für Grafik- und Videoschaffende. Hauptaufgabe von *ClariSSA* war es, herkömmliche Animationssequenzen in das von proDAD entwickelte, hochoptimierte SSA-Format (*Super-Smooth-Animation*) zu konvertieren, um eine für damalige Hardwareverhältnisse beispiellose, ruckelfreie Wiedergabe zu erreichen.

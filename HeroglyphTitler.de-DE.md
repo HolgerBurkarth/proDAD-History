@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="HeroglyphTitler.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # Heroglyph – Die kreative Videotitel- und Animateur-Software
 
 ## Einleitung

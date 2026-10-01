@@ -1,7 +1,6 @@
-
 <p align="center">
-  <a href="ProductTimeline.md"><img src="https://img.shields.io/badge/EN-English-007ec6?style=for-the-badge" alt="English"></a>
-  <img src="https://img.shields.io/badge/DE-Deutsch-2ea44f?style=for-the-badge" alt="Deutsch (aktuell)">
+  <a href="ProductTimeline.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
 </p>
 
 
@@ -9,6 +8,18 @@
 
 > This timeline provides an overview of proDAD's product history, spanning from the Amiga & Casablanca Era to the Windows/Cross-Platform Era.
 
+
+[Adorage](Adorage.de-DE.md),
+[ClariSSA](ClariSSA.de-DE.md),
+[Transformer](Transformer.de-DE.md),
+[Konrad](Konrad.de-DE.md),
+[Monument Titler](MonumentTitler.de-DE.md),
+[Animage](Animage.de-DE.md),
+[pNet](pNet.de-DE.md),
+[CAVIN](CAVIN.de-DE.md),
+[Monument Designer](MonumentDesigner.de-DE.md),
+[pOS](pOS.de-DE.md),
+[Cocktel](Cocktel.de-DE.md)
 
 ```mermaid
 gantt
@@ -24,13 +35,27 @@ gantt
     Konrad                  :1993, 1994
     Monument Titler         :1994, 1996
     Animage                 :1995, 1996
-    PNet                    :1995, 1996
+    pNet                    :1995, 1996
+    pOS                     :1995, 1998
     CAVIN                   :1996, 1997
-    Monument Designer       :1996, 1999
-    pOS                     :1997, 1998
+    Monument Designer       :1996, 1998
     Cocktel                 :1997, 1998
 ```
 
+---
+
+[Adorage](Adorage.de-DE.md),
+[Heroglyph Titler](HeroglyphTitler.de-DE.md),
+[Vitascene](Vitascene.de-DE.md),
+[Mercalli](Mercalli.de-DE.md),
+[DeFishr](DeFishr.de-DE.md),
+[ProDrenalin](ProDrenalin.de-DE.md),
+[CMOS-Fixr](CMOS-Fixr.de-DE.md),
+[Disguise / Phantom](Disguise.de-DE.md),
+[ReSpeedr](ReSpeedr.de-DE.md),
+[Hide / Erasr](Hide.de-DE.md),
+[Spherixr](Spherixr.de-DE.md),
+[Denoisr](Denoisr.de-DE.md)
 
 ```mermaid
 gantt
@@ -58,11 +83,11 @@ gantt
     Denoisr                 :2026, 2027
 ```
 
+---
 
 
 
-
-### Amiga & Casablanca Ära (1991–1998)
+## Amiga & Casablanca Ära (1991–1998)
 
 | Year | Product                   | Notice                                |
 |------|---------------------------|---------------------------------------|
@@ -88,7 +113,7 @@ gantt
 
 
 
-### Windows PC & Cross-Platform Ära (1999–Heute)
+## Windows PC & Cross-Platform Ära (1999–Heute)
 
 | Year | Product                   | Notice                                |
 |------|---------------------------|---------------------------------------|
@@ -176,6 +201,9 @@ gantt
 | 2026 | [Heroglyph Titler v5](HeroglyphTitler.de-DE.md)       | Neue Version mit erweiterten Funktionen für Titel, Handschrift und Routenanimation. |
 |      | [Spherixr v1](Spherixr.de-DE.md)               | Plugin für sphärische 360°-Videos. |
 |      | [Denoisr v1](Denoisr.de-DE.md)                | Plugin für (RT) Rauschunterdrückung in Videos. |
+
+
+
 
 ## Links
 - [Startseite](README.de-DE.md)

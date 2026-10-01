@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="Adorage.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Adorage: Die Evolution der Effektsuite und Übergangseffekte
 
 *Adorage* gehört zu den bekanntesten Meilensteinen und Klassikern im Software-Portfolio von proDAD. Ursprünglich 1991 als bahnbrechende Effektbibliothek und Überblendsoftware für die Amiga-Plattform entwickelt, vollzog das Produkt 1999 erfolgreich den Technologiewechsel auf den Windows-PC. Auf Microsoft Windows etablierte sich *Adorage* über insgesamt 13 Themen-Volumes als weltweiter Standard für professionelle Video-Übergänge, Blenden und Bild-in-Bild-Effekte.

@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="MonumentDesigner.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Monument Designer: Das High-End Titling- und Grafiksystem der Amiga- und NLE-Ära
 
 Als "großer Bruder" des bewährten *Monument Titler* hob der *Monument Designer* die Video-Typografie und Titelgestaltung ab 1996 auf ein vollkommen neues, professionelles Niveau. Die Software richtete sich an anspruchsvolle Videoschaffende, Postproduktionsstudios und Sendeanstalten. Sie erweiterte das bewährte Titler-Konzept um die Unterstützung echter 24-Bit-TrueColor-Grafik, eine vollständige WYSIWYG-Editorumgebung mit Videohintergrund und die direkte Integration in frühe non-lineare Schnittsysteme (NLE).

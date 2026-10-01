@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="Konrad.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Konrad: Spezialisierte Bildkonvertierung für optimale Adorage-Animationen
 
 *Konrad* gehört zu den gezielten Spezialwerkzeugen aus der Amiga-Ära von proDAD. Im Jahr 1993 veröffentlicht, entstand das Programm als direkte Schnittstelle und vorbereitendes Hilfswerkzeug für die Effektsuite *Adorage*. Hauptaufgabe von *Konrad* war es, beliebige externe Grafiken und Bildquellen universell so aufzubereiten und umzuwandeln, dass sie auf der Amiga-Hardware in höchster Bildqualität dargestellt und von *Adorage* nahtlos weiterverarbeitet und animiert werden konnten.

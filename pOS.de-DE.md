@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="pOS.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
+
 # proDAD pOS: Das hochmodulare Next-Generation-Betriebssystem
 
 *pOS* (*proDAD Operating System*) gehört zu den mutigsten, ambitioniertesten und technisch beeindruckendsten Großprojekten in der Geschichte von proDAD. Entwickelt zwischen 1995 und 1998 in jahrelanger Einzelarbeit von Holger Burkarth, entstand *pOS* als Antwort auf das drohende Ende der klassischen Amiga-Plattform nach der Insolvenz von Commodore. Ziel war es, den einzigartigen Geist, die Schnelligkeit und die Multitasking-Architektur von AmigaOS in ein völlig neu geschriebenes, modernes, objektorientiertes und hardwareunabhängiges Betriebssystem für die Zukunft zu retten.

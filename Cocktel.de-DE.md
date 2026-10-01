@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="Cocktel.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Cocktel: Die Pionier-Software für Live-Videotelefonie über analoge Telefonleitungen
 
 Mit *Cocktel* entwickelte proDAD im Jahr 1997 ein technisch spektakuläres Software-System, das seiner Zeit um Jahre voraus war. Lange bevor Breitband-Internet, Videokonferenz-Plattformen oder Smartphones den Alltag eroberten, ermöglichte *Cocktel* die synchrone Übertragung von Live-Video und Ton über gewöhnliche analoge Telefonleitungen. Die Software demonstrierte eindrucksvoll das Potenzial der Amiga-Plattform im Bereich der Echtzeit-Datenkompression und der digitalen Kommunikation.

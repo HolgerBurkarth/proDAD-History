@@ -1,4 +1,10 @@
-# proDAD Animage: Daschtzeit-fähige Compositing-System der Amiga-Ära
+<p align="center">
+  <a href="Animage.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
+
+# proDAD Animage: Echtzeitfähiges Compositing-System der Amiga-Ära
 
 Mit *Animage* veröffentlichte proDAD im Jahr 1995 ein hochmodernes, ebenenbasiertes Videocompositing-System für die Amiga-Plattform. Die Software setzte neue Maßstäbe in der visuellen Effektbearbeitung, indem sie eine vollständig interaktive Workflow-Architektur mit innovativen Partikeleffekten und proDADs bewährtem SSA-Format (*Super-Smooth-Animation*) verband.
 

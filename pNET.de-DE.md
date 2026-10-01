@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="pNET.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD pNET: Die unkomplizierte Point-to-Point-Netzwerklösung der Amiga-Ära
 
 Mit *pNET* veröffentlichte proDAD im Jahr 1995 eine extrem effiziente und benutzerfreundliche Peer-to-Peer-Netzwerklösung für die Amiga-Plattform. In einer Zeit, in der der Aufbau klassischer Computernetzwerke oft mit teurer Zusatzhardware, komplexen Treibereinstellungen und langwierigen Konfigurationen verbunden war, schaffte *pNET* eine direkte, unkomplizierte Brücke zwischen zwei Amiga-Systemen über die serielle Schnittstelle.
