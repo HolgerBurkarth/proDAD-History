@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="Transformer.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
 # proDAD Transformer: Die Revolution in der Farbquantisierung und Bildkonvertierung
 
 *Transformer* gehört zu den herausragenden technischen Pionierleistungen von proDAD auf der Amiga-Plattform. Im Jahr 1993 als spezialisiertes Konvertierungswerkzeug entwickelt, löste die Software eines der drängendsten Probleme der damaligen digitalen Bild- und Videobearbeitung: die hochqualitative Umwandlung und Reduzierung von Farbräumen.

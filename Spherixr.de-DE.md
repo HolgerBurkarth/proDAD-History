@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="Spherixr.md"><img src="https://img.shields.io/badge/EN-English-dd9900?style=for-the-badge" alt="English"></a>
+  <img src="https://img.shields.io/badge/DE-Deutsch-cccccc?style=for-the-badge" alt="Deutsch (aktuell)">
+</p>
+
+
 # Spherixr – Die professionelle Plug-in-Lösung für sphärische 360°- und Panorama-Videokorrektur
 
 ## Einleitung
