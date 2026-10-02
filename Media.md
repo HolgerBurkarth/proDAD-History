@@ -1,12 +1,10 @@
 # proDAD Media Overview
 
-## proDAD Logo
-
 ### proDAD Logo
 <img src="m/prodad160x120.png" alt="proDAD Logo" width="200">
 
-### proDAD Software
-<img src="m/proDAD-Software.jpeg" alt="proDAD Logo" width="200">
+### proDAD Book Cover
+<img src="m/proDAD-Software.jpeg" alt="proDAD Book Cover" width="200">
 
 
 ## Awards
@@ -53,14 +51,13 @@
 ## pOS software
 
 
-### pOS CD1 Award 1996 Amiga Plus
+### p.OS CD 1996
 <img src="m/pOS-CD1.jpeg" alt="pOS-CD1" width="400">
 
-### pOS CD2 Award 1996 Amiga Plus
 <img src="m/pOS-CD2.jpeg" alt="pOS-CD2" width="400">
 
 
 
 ## Links
-- [Startseite](README.de-DE.md)
+- [Home](README.md)
 - [proDAD Website](https://www.prodad.com/)

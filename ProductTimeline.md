@@ -102,7 +102,7 @@ gantt
 | 1994 | [Monument Titler v1](MonumentTitler.md)     | Complete titler with editor, animator, and player in one interface. Offers genlock support, live timing, and integrated Transformer technology. |
 | 1995 | [Animage](Animage.md)                        | Real-time-capable multi-layer compositing system. First proDAD product with full undo/redo support and an integrated particle generator.  |
 |      | [Monument Titler v2](MonumentTitler.md)     | Improved version of Monument Titler with expanded animation and effect capabilities. |
-|      | [PNet](pNET.md)                              | Extremely simple peer-to-peer network solution over a serial cable. Offers drive mirroring, remote CLI, chat, and debugging interface. |
+|      | [pNet](pNET.md)                              | Extremely simple peer-to-peer network solution over a serial cable. Offers drive mirroring, remote CLI, chat, and debugging interface. |
 | 1996 | [Monument Designer v1](MonumentDesigner.md) | For Amiga and Draco (MacroSystem). Offers comprehensive design and animation tools for professional video productions. |
 |      | CAVIN                     | Video editing with direct control of camcorders. |
 | 1997 | [pOS](pOS.md)                       | Proprietary operating system for the Amiga. |
@@ -191,12 +191,14 @@ gantt
 | 2022 | Ango-Exchange             | Data exchange tool. |
 |      | [Mercalli v6 SAL](Mercalli.md)					 | Further improvements to video stabilization and CMOS correction. Additionally, image and color optimization. |
 |      | [Mercalli v6 Plugins](Mercalli.md)       | New plug-ins for video stabilization. |
-|      | [Disguise v2](Disguise.md)               | Revised UI with improved usability and new features. |
+| 2023 | [Disguise v2](Disguise.md)               | Revised UI with improved usability and new features. |
+|      | Disguise v2 Forensic               | Special version for law enforcement agencies. |
 |      | [ReSpeedr v2](ReSpeedr.md)               | Improved slow-motion and time-lapse effects. |
+| 2024 | [Hide v2](Hide.md)                   | New version with improved algorithms for object removal. |
 |      | [Vitascene v5](Vitascene.md)              | New version with over 1,700 effects, glitch effects, and 8K support. |
-|      | [Mercalli CLI](Mercalli.md)              | Command-line interface for video stabilization. |
+| 2025 | [Mercalli CLI](Mercalli.md)              | Command-line interface for video stabilization. |
 |      | [Mercalli Linux SDK](Mercalli.md)        | Software development kit for Linux for integrating video stabilization. |
-|      | [Hide v2](Hide.md)                   | New version with improved algorithms for object removal. |
+|      | [Mercalli for www.rematch.tv](https://github.com/HolgerBurkarth/MercalliSDK-Preview)  | www.rematch.tv uses Mercalli SDK for video stabilization. |
 |      | [Vitascene v6 OFX](Vitascene.md)          | OFX version for professional NLEs. |
 | 2026 | [Heroglyph Titler v5](HeroglyphTitler.md)       | New version with extended features for titles, handwriting, and route animation. |
 |      | [Spherixr v1](Spherixr.md)               | Plugin for spherical 360° videos. |
@@ -208,3 +210,4 @@ gantt
 ## Links
 - [Home](README.md)
 - [proDAD Website](https://www.prodad.com/)
+- [Media / Awards](Media.md)

@@ -95,6 +95,7 @@ proDAD *Mercalli* has been the undisputed benchmark for video stabilization and 
 
 * [Home](README.md)
 * [All Products](ProductTimeline.md)
+* [Mercalli SDK](https://github.com/HolgerBurkarth/MercalliSDK-Preview)
 * [Product Manual / Manuals](https://github.com/HolgerBurkarth/proDAD-Manuals/blob/main/Mercalli/sal/en/proDAD%20Mercalli.pdf)
 * [YouTube Playlist for Mercalli](https://www.youtube.com/playlist?list=PL2Q9EsYBnfQCM_T8NS9kmOitzfblmtY9_)
 * [Product Page on proDAD.com](https://www.prodad.com/Video-Stabilisierung-fuer-Profis/Mercalli-SAL-97864.html)

@@ -102,7 +102,7 @@ gantt
 | 1994 | [Monument Titler v1](MonumentTitler.de-DE.md)     | Komplett-Titler mit Editor, Animator und Player auf einer Oberfläche. Bietet Genlock-Unterstützung, Live-Timing und integrierte Transformer-Technologie. |
 | 1995 | [Animage](Animage.de-DE.md)                        | Echtzeit-fähiges Multi-Layer-Compositing-System. Erstes proDAD-Produkt mit vollständiger Undo/Redo-Unterstützung und integriertem Partikel-Generator.  |
 |      | [Monument Titler v2](MonumentTitler.de-DE.md)     | Verbesserte Version des Monument Titlers mit erweiterten Animations- und Effektmöglichkeiten. |
-|      | [PNet](pNET.de-DE.md)                              | Extrem einfache Peer-to-Peer-Netzwerklösung über serielles Kabel. Bietet Laufwerksspiegelung, Remote-CLI, Chat und Debugging-Schnittstelle. |
+|      | [pNet](pNET.de-DE.md)                              | Extrem einfache Peer-to-Peer-Netzwerklösung über serielles Kabel. Bietet Laufwerksspiegelung, Remote-CLI, Chat und Debugging-Schnittstelle. |
 | 1996 | [Monument Designer v1](MonumentDesigner.de-DE.md) | Für Amiga und Draco (MacroSystem). Bietet umfassende Design- und Animationswerkzeuge für professionelle Videoproduktionen. |
 |      | CAVIN                     | Videobearbeitung mit direkter Steuerung von Camcordern. |
 | 1997 | [pOS](pOS.de-DE.md)                       | Proprietäres Betriebssystem für den Amiga. |
@@ -191,12 +191,14 @@ gantt
 | 2022 | Ango-Exchange             | Datenaustausch-Tool. |
 |      | [Mercalli v6 SAL](Mercalli.de-DE.md)					 | Weitere Verbesserungen der Videostabilisierung und CMOS-Korrektur. Zusätzlich Bild- und Farboptimierung. |
 |      | [Mercalli v6 Plugins](Mercalli.de-DE.md)       | Neue Plugins für die Videostabilisierung. |
-|      | [Disguise v2](Disguise.de-DE.md)               | Überarbeitetes UI mit verbesserter Benutzerfreundlichkeit und neuen Funktionen. |
+| 2023 | [Disguise v2](Disguise.de-DE.md)               | Überarbeitetes UI mit verbesserter Benutzerfreundlichkeit und neuen Funktionen. |
+|      | Disguise v2 Forensic               | Spezielle Version für Polizeibehörden |
 |      | [ReSpeedr v2](ReSpeedr.de-DE.md)               | Verbesserte Zeitlupen- und Zeitraffereffekte. |
+| 2024 | [Hide v2](Hide.de-DE.md)                   | Neue Version mit verbesserten Algorithmen zur Objektentfernung. |
 |      | [Vitascene v5](Vitascene.de-DE.md)              | Neue Version mit über 1.700 Effekten, Glitch-Effekten und 8K-Unterstützung. |
-|      | [Mercalli CLI](Mercalli.de-DE.md)              | Kommandozeilen-Interface für die Videostabilisierung. |
+| 2025 | [Mercalli CLI](Mercalli.de-DE.md)              | Kommandozeilen-Interface für die Videostabilisierung. |
 |      | [Mercalli Linux SDK](Mercalli.de-DE.md)        | Software Development Kit für Linux zur Integration der Videostabilisierung. |
-|      | [Hide v2](Hide.de-DE.md)                   | Neue Version mit verbesserten Algorithmen zur Objektentfernung. |
+|      | [Mercalli für www.rematch.tv](https://github.com/HolgerBurkarth/MercalliSDK-Preview)  | www.rematch.tv nutzt Mercalli SDK zur Videostabilisierung. |
 |      | [Vitascene v6 OFX](Vitascene.de-DE.md)          | OFX-Version für professionelle NLEs. |
 | 2026 | [Heroglyph Titler v5](HeroglyphTitler.de-DE.md)       | Neue Version mit erweiterten Funktionen für Titel, Handschrift und Routenanimation. |
 |      | [Spherixr v1](Spherixr.de-DE.md)               | Plugin für sphärische 360°-Videos. |
@@ -208,3 +210,5 @@ gantt
 ## Links
 - [Startseite](README.de-DE.md)
 - [proDAD Website](https://www.prodad.com/)
+- [Media / Awards](Media.md)
+
