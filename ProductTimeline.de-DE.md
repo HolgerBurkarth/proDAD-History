@@ -78,6 +78,7 @@ gantt
     Phantom / Disguise      :2014, 2025
     ReSpeedr                :2014, 2025
     Erasr / Hide            :2018, 2026
+    EDIUS Forensic-Plugins  :2019, 2026
     Ango-Exchange           :2022, 2023
     Spherixr                :2026, 2027
     Denoisr                 :2026, 2027
@@ -180,6 +181,7 @@ gantt
 |      | [Phantom v1.7 Re-Mosaic](Disguise.de-DE.md)    | Erkennt Mosaike automatisch und erstellt Zeitachsen. |
 | 2019 | [Mercalli NUC](Mercalli.de-DE.md)              | Für medizinische Anwendungen.              |
 |      | [Phantom v1.8 Faces](Disguise.de-DE.md)        | Erkennt automatisch Gesichter und Objekte und erstellt Zeitachsen. |
+|      | [EDIUS Forensic-Plugins](https://github.com/HolgerBurkarth/proDAD-Manuals) | Forensic-Plugins für Polizeibehörden und Auswertungszwecke. TimeCode und Event-Detection. |
 | 2020 | [Vitascene v4](Vitascene.de-DE.md)              | Neue Version inkl. Seamless-Transitions. |
 |      | [ProDrenalin v3](ProDrenalin.de-DE.md)             | Super-Lupe und gerichtsverwertbares Protokoll |
 |      | [Mercalli v5 SAL](Mercalli.de-DE.md)					 | Weitere Verbesserungen der Videostabilisierung. |
