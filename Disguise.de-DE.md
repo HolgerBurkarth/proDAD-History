@@ -77,4 +77,4 @@ Aufgerüstet für binokulares 180°- bis 360°-VR-Videomaterial. Die Bearbeitung
 * [Alle Produkte](ProductTimeline.de-DE.md)
 * [Produkt-Handbuch auf GitHub](https://github.com/HolgerBurkarth/proDAD-Manuals/blob/main/Disguise%20v2/sal/de/proDAD%20Disguise.pdf)
 * [Produktseite auf proDAD.com](https://www.prodad.com/Videowerkzeuge/DISGUISE-V2-91546,l-de.html)
-* [YouTube Playlist](https://www.youtube.com/playlist?list=PL2Q9EsYBnfQDkg8j9mnHYg2lfuUK0PxPG)
+* [YouTube Playlist](https://www.youtube.com/playlist?list=PLc404IkSm6qA)
